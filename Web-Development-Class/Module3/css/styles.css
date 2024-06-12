@@ -1,0 +1,54 @@
+/** HEADER **/
+#header-nav {	
+	background-color: pink;
+}
+#nav-header {
+	text-align: right;
+	font-color: black;
+}
+#nav-list {
+	text-align: center;
+
+	border-sizing: border-box;
+	border: 1px solid black;
+	background-color: lavenderblush;
+}
+#nav-list a{
+	border-sizing: border-box;
+	border: 1px solid black;
+	color: red;
+	
+}
+.navbar-brand h1 {
+	font-family: 'Lora', serif;
+  	color: teal;
+  	font-size: 1.5em;
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+  	margin-top: 0;
+  	margin-bottom: 0;
+  	line-height: .75;
+  	
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.container-box {
+	border-sizing: border-box;
+		
+} 
+
+.container-background {
+	background-color: skyblue;
+	padding-left: 10px;
+}
+.container-title {
+	text-align: center;
+	color: red;
+}
